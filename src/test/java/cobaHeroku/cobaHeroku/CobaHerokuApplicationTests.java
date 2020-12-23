@@ -1,0 +1,13 @@
+package cobaHeroku.cobaHeroku;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class CobaHerokuApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
